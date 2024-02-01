@@ -6,20 +6,16 @@ namespace RegistrationForm;
 
 public partial class Window1 : Window
 {
-    private string _name;
-    private string _email;
-    private string _phone;
-    private string _password;
-    public Window1(string name, string email, string phone, string password)
+    public string me { get; set; }
+    //private string _email { get; set; }
+    //private string _phone { get; set; }
+    //private string _password { get; set; }
+    public Window1(string me)
     {
         InitializeComponent();
-        _name = name;
-        _email = email;
-        _phone = phone;
-        _password = password;
-        this.name.Text = _name;
-        this.email.Text = _email;
-        this.phone.Text = _phone;
-        this.password.Text = _password;
+        ame.Text = me;
+        //_email = email;
+        //_phone = phone;
+        //_password = password;
     }
 }

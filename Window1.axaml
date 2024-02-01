@@ -6,8 +6,8 @@
         x:Class="RegistrationForm.Window1"
         Title="Window1">
 	<StackPanel>
-		<TextBlock
-			Name="name"/>
+		<TextBlock 
+			Name="ame"/>
 		<TextBlock
 			Name="email"/>
 		<TextBlock

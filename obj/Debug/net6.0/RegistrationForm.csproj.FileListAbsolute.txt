@@ -129,3 +129,4 @@ C:\Users\prdb\Desktop\RegistrationForm\obj\Debug\net6.0\RegistrationForm.pdb
 C:\Users\prdb\Desktop\RegistrationForm\obj\Debug\net6.0\RegistrationForm.csproj.CopyComplete
 C:\Users\prdb\Desktop\RegistrationForm\obj\Debug\net6.0\RegistrationForm.genruntimeconfig.cache
 C:\Users\prdb\Desktop\RegistrationForm\obj\Debug\net6.0\ref\RegistrationForm.dll
+C:\Users\prdb\Desktop\RegistrationForm\obj\Debug\net6.0\RegistrationForm.sourcelink.json
