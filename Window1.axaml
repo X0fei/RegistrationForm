@@ -7,7 +7,7 @@
         Title="Window1">
 	<StackPanel>
 		<TextBlock 
-			Name="ame"/>
+			Name="name"/>
 		<TextBlock
 			Name="email"/>
 		<TextBlock

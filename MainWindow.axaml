@@ -41,7 +41,7 @@
 					 CornerRadius="0"
 					 BorderThickness="0 0 0 2"
 					 Name="name"
-					 Text="{Binding Name}"/>
+					 Text="{Binding _name}"/>
 			<TextBox Grid.Row="1"
 					 Margin="0 10"
 					 Watermark="* Email address"
